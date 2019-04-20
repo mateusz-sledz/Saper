@@ -18,6 +18,7 @@
 #define MMIN 8
 #define STCK 5000
 
+
 void create(int r, int c);
 void clean_count(void);
 void field(int r, int c);
